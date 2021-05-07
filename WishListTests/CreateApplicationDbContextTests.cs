@@ -1,5 +1,7 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
 using Xunit;
 
 namespace WishListTests
